@@ -14,7 +14,7 @@ source venv/bin/active
 
 2. Install all the requirements
 commandline
-pip install -r requirements.txt#   t u n _ t u n _ n a i n g _ p r o j e c t 
+pip install -r requirements.txt
  
  #   t u n - p r o j e c t 
  
